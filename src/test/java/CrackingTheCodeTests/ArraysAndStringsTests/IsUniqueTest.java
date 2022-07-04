@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_1_Is_Unique.IsUnique;
 import org.junit.jupiter.api.Assertions;

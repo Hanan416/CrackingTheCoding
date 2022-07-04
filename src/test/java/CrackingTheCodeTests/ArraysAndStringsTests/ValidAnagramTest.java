@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_2_Check_Permutation.ValidAnagram;
 import org.junit.jupiter.api.Assertions;

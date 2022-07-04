@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_6_String_Compression.StringCompression;
 import org.junit.jupiter.api.Assertions;

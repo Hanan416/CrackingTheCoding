@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_9_String_Rotation.RotateString;
 import org.junit.jupiter.api.Assertions;

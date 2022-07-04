@@ -1,4 +1,4 @@
-package SortingAndSearching;
+package CrackingTheCodeTests.SortingAndSearching;
 
 import CrackingTheCode.SortingAndSearching.Q10_1_SortedMerge.MergeSortedArray;
 import org.junit.jupiter.api.Assertions;

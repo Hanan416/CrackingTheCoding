@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_2_Check_Permutation.PermutationInString;
 import org.junit.jupiter.api.Assertions;

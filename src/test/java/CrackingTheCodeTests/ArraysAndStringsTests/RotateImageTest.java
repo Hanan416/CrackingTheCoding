@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_7_Rotate_Matrix.RotateImage;
 import org.junit.jupiter.api.Assertions;

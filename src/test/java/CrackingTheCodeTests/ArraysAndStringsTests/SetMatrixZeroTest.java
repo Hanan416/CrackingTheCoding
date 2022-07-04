@@ -1,4 +1,4 @@
-package ArraysAndStringsTests;
+package CrackingTheCodeTests.ArraysAndStringsTests;
 
 import CrackingTheCode.ArraysAndStrings.Q1_8_Zero_Matrix.SetMatrixZero;
 import org.junit.jupiter.api.Assertions;

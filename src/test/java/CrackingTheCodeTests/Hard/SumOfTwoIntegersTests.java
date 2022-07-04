@@ -1,4 +1,4 @@
-package Hard;
+package CrackingTheCodeTests.Hard;
 
 import CrackingTheCode.AddWithoutPlus.SumOfTwoIntegers;
 import org.junit.jupiter.api.Assertions;
