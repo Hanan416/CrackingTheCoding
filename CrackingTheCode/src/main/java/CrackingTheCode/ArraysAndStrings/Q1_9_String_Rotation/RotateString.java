@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_9_String_Rotation;
+package CrackingTheCode.ArraysAndStrings.Q1_9_String_Rotation;
 
 /**
  * Given two strings s and goal, return true if and only if

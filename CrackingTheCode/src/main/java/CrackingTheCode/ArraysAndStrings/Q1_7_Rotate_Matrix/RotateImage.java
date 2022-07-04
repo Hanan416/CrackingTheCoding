@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_7_Rotate_Matrix;
+package CrackingTheCode.ArraysAndStrings.Q1_7_Rotate_Matrix;
 
 /**
  * You are given an n x n 2D matrix representing an image,

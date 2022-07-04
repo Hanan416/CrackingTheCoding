@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_1_Is_Unique;
+package CrackingTheCode.ArraysAndStrings.Q1_1_Is_Unique;
 
 import java.util.HashMap;
 import java.util.Map;

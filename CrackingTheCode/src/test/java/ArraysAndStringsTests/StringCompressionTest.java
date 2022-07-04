@@ -1,6 +1,6 @@
 package ArraysAndStringsTests;
 
-import ArraysAndStrings.Q1_6_String_Compression.StringCompression;
+import CrackingTheCode.ArraysAndStrings.Q1_6_String_Compression.StringCompression;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_8_Zero_Matrix;
+package CrackingTheCode.ArraysAndStrings.Q1_8_Zero_Matrix;
 
 /**
  * Given an m x n integer matrix, if an element is 0,

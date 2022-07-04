@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_6_String_Compression;
+package CrackingTheCode.ArraysAndStrings.Q1_6_String_Compression;
 
 /**
  * Given an array of characters chars, compress it using the following algorithm:

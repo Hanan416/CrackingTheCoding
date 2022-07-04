@@ -1,6 +1,6 @@
 package ArraysAndStringsTests;
 
-import ArraysAndStrings.Q1_5_One_Away.EditDistance;
+import CrackingTheCode.ArraysAndStrings.Q1_5_One_Away.EditDistance;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

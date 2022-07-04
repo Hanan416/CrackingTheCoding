@@ -1,4 +1,4 @@
-package Hard.AddWithoutPlus;
+package CrackingTheCode.AddWithoutPlus;
 
 /**
  * Given two integers a and b, return the sum of the two

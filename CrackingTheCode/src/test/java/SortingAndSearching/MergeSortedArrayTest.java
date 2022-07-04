@@ -1,6 +1,6 @@
 package SortingAndSearching;
 
-import SortingAndSearching.Q10_1_SortedMerge.MergeSortedArray;
+import CrackingTheCode.SortingAndSearching.Q10_1_SortedMerge.MergeSortedArray;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

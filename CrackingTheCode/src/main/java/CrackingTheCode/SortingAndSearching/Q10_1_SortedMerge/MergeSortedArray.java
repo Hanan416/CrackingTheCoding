@@ -1,4 +1,4 @@
-package SortingAndSearching.Q10_1_SortedMerge;
+package CrackingTheCode.SortingAndSearching.Q10_1_SortedMerge;
 
 import java.util.Arrays;
 

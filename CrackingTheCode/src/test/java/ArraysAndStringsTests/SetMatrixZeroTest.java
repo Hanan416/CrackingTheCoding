@@ -1,6 +1,6 @@
 package ArraysAndStringsTests;
 
-import ArraysAndStrings.Q1_8_Zero_Matrix.SetMatrixZero;
+import CrackingTheCode.ArraysAndStrings.Q1_8_Zero_Matrix.SetMatrixZero;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

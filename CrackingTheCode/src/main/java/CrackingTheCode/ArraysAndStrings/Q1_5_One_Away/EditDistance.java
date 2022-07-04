@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_5_One_Away;
+package CrackingTheCode.ArraysAndStrings.Q1_5_One_Away;
 
 import java.util.Comparator;
 import java.util.stream.Stream;

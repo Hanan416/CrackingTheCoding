@@ -1,4 +1,4 @@
-package ArraysAndStrings.Q1_2_Check_Permutation;
+package CrackingTheCode.ArraysAndStrings.Q1_2_Check_Permutation;
 
 /**
  * Given two strings s1 and s2,

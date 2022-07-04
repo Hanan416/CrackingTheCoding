@@ -1,6 +1,6 @@
 package Hard;
 
-import Hard.AddWithoutPlus.SumOfTwoIntegers;
+import CrackingTheCode.AddWithoutPlus.SumOfTwoIntegers;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
